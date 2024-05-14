@@ -1,0 +1,11 @@
+@import "./reset.css";
+
+p{
+  text-align: center;
+  justify-content: baseline;
+}
+
+.css_test{
+  font-style: italic;
+}
+

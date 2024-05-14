@@ -1,0 +1,10 @@
+p{
+  font-size: larger;
+  margin: 0;
+}
+
+.nav_container{
+  margin: 0;
+  background-color: beige;
+  position: sticky;
+}
