@@ -9,3 +9,11 @@ p{
   font-style: italic;
 }
 
+.svg_container{
+  text-align: center;
+  justify-content: baseline;
+}
+
+svg{
+  display: inline;
+}
